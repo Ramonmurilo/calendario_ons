@@ -1,0 +1,4 @@
+# File: docs/requirements.txt
+
+pendulum==2.1.2
+sphinx==4.0.2
